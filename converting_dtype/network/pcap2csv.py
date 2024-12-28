@@ -1,6 +1,5 @@
 import pyshark
 import csv
-import argparse
 from collections import defaultdict
 
 
